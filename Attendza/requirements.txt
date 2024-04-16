@@ -1,0 +1,6 @@
+dlib
+pandas
+numpy
+tkinter
+chalice
+boto3
